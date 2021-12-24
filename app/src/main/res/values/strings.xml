@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Bundelkhand University </string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Bundelkhand University</string>
+    <string name="nav_header_subtitle"> B++ NAAC Accrediated | No.1 State University in UP</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_notice">Notice &amp; Announce.</string>
+    <string name="news">News &amp; Events</string>
+    <string name="enroll">Bar/Enrollment Number</string>
+    <string name="login">Student Log In </string>
+    <string name="result">Current Campus Result</string>
+    <string name="courses">Courses</string>
+    <string name="deg">Degree &amp; Migration</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="bundelkhand_university">BUNDELKHAND UNIVERSITY</string>
+    <string name="created">App Created By Sachin Saxena </string>
+    <!-- TODO: Remove or change this placeholder text -->
+</resources>
